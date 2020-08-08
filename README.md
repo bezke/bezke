@@ -1,6 +1,6 @@
 ### Hi there 👋
+🔭 I’m currently working on make redmi note 8/8t trees better...
 [![bezke's github stats](https://github-readme-stats.vercel.app/api?username=bezke&show_icons=true&count_private=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bezke&layout=compact&hide_border=true)](https://github.com/bezke)
 <!--
 **bezke/bezke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
